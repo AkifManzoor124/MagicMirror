@@ -137,6 +137,13 @@ var config = {
 				enableKeyboard: true,
 			}
 		},
+		{
+			module: "MMM-network-signal",
+			position: "bottom_right",
+			config: {
+				// Configuration of the module goes here
+			}
+		}
 	]
 };
 
