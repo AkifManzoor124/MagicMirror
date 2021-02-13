@@ -116,7 +116,7 @@ var config = {
 		},
 		{
 			module: "MMM-Oura",
-			position: 'top-center', // Or any other region
+			position: 'top_center', // Or any other region
 			config: {
 				apiKey: "D7N5BWM5S3YI36DSKMY5ULEY2GIR6QTW"
 			}
